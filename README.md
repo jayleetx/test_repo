@@ -1,5 +1,4 @@
-# test_repo
-# And here's another comment 
+# Test repo
 Test repository
 
 I am the boss! 
