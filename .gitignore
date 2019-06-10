@@ -4,3 +4,5 @@
 .Ruserdata
 Icon?
 TestRepo.rproj
+.gitignore
+test_repo.Rproj
